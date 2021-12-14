@@ -1,0 +1,1 @@
+flirt -in '/media/zz/data_archive/C3-T1-Raw/004-0033__201703010917__0006__2D-T1w-TRA.nii.gz' -ref '/usr/local/fsl/data/standard/MNI152_T1_2mm.nii.gz' -dof 12 -cost normmi -out '/media/zz/data_archive/C3-T1-Raw/004-0033__201703010917__0006__2D-T1w-TRA_toMNI2mm.nii.gz' -interp spline
